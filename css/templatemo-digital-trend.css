@@ -418,7 +418,7 @@ https://templatemo.com/tm-538-digital-trend
 
   .hero {
     position: relative;
-    padding: 5em 0;
+    padding: 2em 0;
     overflow: hidden;
   }
 
@@ -641,7 +641,7 @@ https://templatemo.com/tm-538-digital-trend
 
   .site-footer {
     background: var(--dark-color);
-    padding: 7em 0 6em 0;
+    padding: 3em 0 3em 0;
   }
 
   .site-footer a {
@@ -718,7 +718,7 @@ https://templatemo.com/tm-538-digital-trend
   @media screen and (max-width: 991px) {
 
     .hero {
-      padding-top: 2em;
+      /* padding-top: 2em; */
     }
 
     .hero-text {
