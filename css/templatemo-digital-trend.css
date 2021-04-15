@@ -783,6 +783,10 @@ https://templatemo.com/tm-538-digital-trend
     .footer-link li {
       margin-left: 0;
     }
+
+    .contact-image {
+      display: None;
+    }
   }
 
 /* schedule */
