@@ -1002,3 +1002,10 @@ h1.section-title {
     right: 133.5%;
   }
 }
+
+/* partners */
+.partners img {
+  width: 20rem;
+  padding: 2em;
+  align-self:center;
+}
